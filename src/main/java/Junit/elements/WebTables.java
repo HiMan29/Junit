@@ -29,5 +29,6 @@ public class WebTables {
         driver.findElement(By.id("submit")).click();
         driver.close();
 
+
     }
 }
